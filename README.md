@@ -1,9 +1,8 @@
-# IS436-Deliverable-4
-Deliverable 4
+# 🧳 IS436-Deliverable-4
 
-About Project:
+## 🪘🐈 About Project:
 //
 
-Implemented Technologies:
-1.) Drawing Tool (Lucid Charts)
-2.) //
+## ⚙︎ Implemented Technologies:
+- **Drawing Tool** - Lucid Charts
+- **TBD** — TBD  
