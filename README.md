@@ -6,5 +6,5 @@
 ## ⚙︎ Implemented Technologies:
 - **Drawing Tool** - Lucid Charts
 - **Oracle SQL**
-- **Microsoft Excel Sheets
-- **Google Docs
+- **Microsoft Excel Sheets**
+- **Google Docs**
