@@ -5,4 +5,4 @@
 
 ## ⚙︎ Implemented Technologies:
 - **Drawing Tool** - Lucid Charts
-- **TBD** — TBD  
+- **Oracle SQL**
